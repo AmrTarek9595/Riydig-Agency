@@ -114,9 +114,9 @@ document.getElementById('exampleService').addEventListener('change', function(ev
       console.log(`Width: ${width}px, Height: ${height}px, Size: ${sizeInBytes} bytes`);
 
       // Check size and dimensions based on your requirements
-if((width!=900 && height!=1600))
+if((width!=1429 && height!=2000))
 {
-  alert("Image Height and Width Must equal 900x1600");
+  alert("Image Height and Width Must equal 1429x2000");
   return document.getElementById('exampleService').value  ="";
 }
     
