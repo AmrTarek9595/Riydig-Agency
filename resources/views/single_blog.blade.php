@@ -34,7 +34,7 @@
                 </div>
                 <h2 class="fs-40 text-center color-dark" alt="{{$data->title_en}}" tag="{{$data->title_en}}"><span class="fs-40">"</span>{{ $data->title_en }}<span class="fs-40">"</span></h2>
                 <div class="row" style="justify-content:center">
-                <div class="col-8">
+                <div class="col-lg-8 col-sm-12 col-md-8">
                 <p>{!! $data->body_en !!}</p>
 
                 </div>
