@@ -1,0 +1,3 @@
+DB fourweek_riydig
+User fourweek_riydig
+pass Riydig@2024
