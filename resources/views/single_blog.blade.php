@@ -6,7 +6,7 @@
             <div class="container">
                 <ul class="breadcrumb unstyled">
                     <li><a href="/">Home</a></li>
-                    <li><a href="!#">Blogs</a></li>
+                    <li><a href="/blogs">Blogs</a></li>
                     <li><a class="active" href=!#">{{ $data->title_en }}</a></li>
                 </ul>
                 <h1 class="mb-0 color-dark-2">{{ $data->title_en }}</h1>
@@ -23,7 +23,7 @@
                         <img src="/images/blogs/{{$data->image_en}}" alt="{{$data->title_en}}" style="border-radius: 70px;    max-height: 360px;">
                     </div>
                     <div class="col-lg-8">
-                        <h1 class="fs-69" alt="{{$data->title_en}}" tag="{{$data->title_en}}" >{{ $data->title_en }}</h1>
+                        <h1 class="fs-40" alt="{{$data->title_en}}" tag="{{$data->title_en}}" >{{ $data->title_en }}</h1>
                         <div class="author-block">
                             <!-- <span class="shadow fs-24 br-15 date bg-white color-primary">12 DEC 2023</span> -->
                             <img class="author shadow br-15" alt="" src="assets/media/blogs/listing/author-1.png">

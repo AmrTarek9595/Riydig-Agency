@@ -102,7 +102,7 @@
                         <li><a href="https://wa.me/+201040489757?text=hello, i'm coming from RiyDig Agency" target="__blank"><i class="fal fab fa-whatsapp"></i>+20 104 048 9757</a></li>
                        
 
-                        <li><a href="https://maps.app.goo.gl/E39k18egdH5MBRuF7" target="__blank"><i class="fal fa-map-marker-alt"></i>24 Mohamed Youssef Moussa, Nasr City</a></li>
+                        <li><a href="https://maps.app.goo.gl/E39k18egdH5MBRuF7" target="__blank"><i class="fal fa-map-marker-alt"></i>Nasr City, Cairo</a></li>
                        </ul>
                     </div>
                     <div class="col-lg-4">

@@ -1417,7 +1417,7 @@ nav .navbar-toggler {
 @media (max-width: 991px) {
   .header-1 nav a {
     color: #1A1A1A;
-    margin-left: 30px;
+    margin-left: 2px;
   }
 }
 .header-1 nav a.active {
@@ -2148,8 +2148,9 @@ h2,
 }
 @media (max-width: 1200px) {
   .about-1 .steps .title {
-    left: -28%;
-    top: 90px;
+    left: -72%;
+    top: 140px;
+    font-size: 250px;
   }
 }
 
@@ -3716,5 +3717,9 @@ scale:2.1
     margin-bottom: 20px !important;
 
   }
+  .footer-1 .social-links li {
+    width: 67px;
+    margin-bottom: 24px;
 
+  }
 }

@@ -341,7 +341,7 @@
                         <p class="ps-3">  Driven by innovation, we unite regional insights with a global outlook to craft strategies that resonate with diverse audiences and drive measurable impact.</p>
                         <div class="steps mt-100">
                             <div class="title fs-155 fw-7 text-uppercase">Steps</div>
-                            <div class="row mb-5" data-sal="slide-right" data-sal-duration="2000" data-sal-delay="100" data-sal-easing="ease-in-out">
+                            <div class="row mb-5" data-sal="slide-up" data-sal-duration="2000" data-sal-delay="100" data-sal-easing="ease-in-out">
                                 <div class="col-lg-3 col-sm-2 counting">
                                     <strong class="fs-53 color-dark-2 text-uppercase lh-100 position-relative z-2">01</strong>
                                 </div>
@@ -350,7 +350,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="row mb-5" data-sal="slide-left" data-sal-duration="2000" data-sal-delay="100" data-sal-easing="ease-in-out">
+                            <div class="row mb-5" data-sal="slide-down" data-sal-duration="2000" data-sal-delay="100" data-sal-easing="ease-in-out">
                                 <div class="col-lg-3 col-sm-2 counting">
                                     <strong class="fs-53 color-dark-2 text-uppercase lh-100 position-relative z-2">02</strong>
                                 </div>
@@ -359,7 +359,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="row mb-5" data-sal="slide-right" data-sal-duration="2000" data-sal-delay="100" data-sal-easing="ease-in-out">
+                            <div class="row mb-5" data-sal="slide-up" data-sal-duration="2000" data-sal-delay="100" data-sal-easing="ease-in-out">
                                 <div class="col-lg-3 col-sm-2 counting">
                                     <strong class="fs-53 color-dark-2 text-uppercase lh-100 position-relative z-2">03</strong>
                                 </div>
@@ -368,7 +368,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="row" data-sal="slide-left" data-sal-duration="2000" data-sal-delay="100" data-sal-easing="ease-in-out">
+                            <div class="row" data-sal="slide-down" data-sal-duration="2000" data-sal-delay="100" data-sal-easing="ease-in-out">
                                 <div class="col-lg-3 col-sm-2 counting">
                                     <strong class="fs-53 color-dark-2 text-uppercase lh-100 position-relative z-2">04</strong>
                                 </div>
