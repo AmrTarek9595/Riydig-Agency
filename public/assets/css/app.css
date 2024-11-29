@@ -3683,6 +3683,8 @@ scale:2.1
     background: #F7FFFC;
     z-index: 9999999;
     padding-top: 20%;
+    justify-content: center;
+    display: flex;
   }
   #preloader .loader {
     font-size: 106px;
@@ -3721,5 +3723,9 @@ scale:2.1
     width: 67px;
     margin-bottom: 24px;
 
+  }
+  .team-2 .img-box img{
+    width: auto;
+    height: auto;
   }
 }

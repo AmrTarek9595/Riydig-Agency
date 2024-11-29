@@ -157,6 +157,7 @@
 
     <script src="/assets/js/vendor/jquery-3.6.3.min.js" ></script>
 <script src="/assets/js/vendor/bootstrap.min.js" ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js"></script>
 
 
 <script src="/assets/js/vendor/slick.min.js" ></script>
@@ -170,7 +171,6 @@
 <script src="/assets/js/app.js" ></script>
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js"></script>
 <!-- <script src="/assets/js/ihover.js" ></script> -->
 <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
 

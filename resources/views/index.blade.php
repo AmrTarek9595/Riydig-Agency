@@ -330,7 +330,7 @@
                 <div class="clearfix"></div>
                 <div class="row mt-48">
                     <div class="col-lg-6">
-                        <img src="assets/media/about/2150976030.jpg" alt="" style="height:80%">
+                        <img src="assets/media/about/2150976030.jpg" alt="">
                     </div>
                     <div class="col-lg-6">
                         <p class="fs-53 color-dark-2 ls-0">Ideology</p>
