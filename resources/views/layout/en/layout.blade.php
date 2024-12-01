@@ -41,7 +41,7 @@
 <body>
   
 <div id="preloader">
-        <span class="loader">RIYDIG</span>
+        <span class="loader"><img src="/assets/media/Logo.gif"></span>
     </div>
 
     <!-- Back To Top Start -->

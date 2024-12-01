@@ -1203,7 +1203,7 @@ strong {
   box-sizing: border-box;
 }
 #preloader .loader::after {
-  content: "RIYDIG";
+  content: "";
   position: absolute;
   left: 0;
   top: 0;
@@ -3699,7 +3699,7 @@ scale:2.1
     box-sizing: border-box;
   }
   #preloader .loader::after {
-    content: "RIYDIG";
+    content: "";
     position: absolute;
     left: 0;
     top: 0;

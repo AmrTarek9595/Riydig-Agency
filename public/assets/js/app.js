@@ -45,7 +45,7 @@
           const phrase = document.querySelector('.random-word');
           const compStyles = window.getComputedStyle(phrase);
           const animation = compStyles.getPropertyValue('animation');
-          const animationTime = parseFloat(animation.match(/\d*[.]?\d+/)) * 700;
+          const animationTime = parseFloat(animation.match(/\d*[.]?\d+/)) * 900;
 
           const phrases = ['Innovation', 'Opportunity', 'Insights','Growth'];
 
@@ -54,7 +54,7 @@
 
           setTimeout(() => {
             phrase.textContent = newPhrase;
-          }, 0); // time to allow opacity to hit 0 before changing word
+          }, 1000); // time to allow opacity to hit 0 before changing word
         }
 
         const randomNum = (num, max) => {
